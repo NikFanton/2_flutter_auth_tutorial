@@ -1,3 +1,3 @@
-# flutter_auth_tutorial
+# Flutter Auth Tutorial
 
-A new Flutter project.
+YouTube tutorial: https://www.youtube.com/watch?v=0iLaAqv8sx8&ab_channel=MykytaHuchenko
